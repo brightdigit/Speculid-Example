@@ -1,20 +1,23 @@
 {
   "images" : [
     {
-      "idiom" : "universal",
-      "scale" : "1x"
+      "scale" : "1x",
+      "filename" : "geometry.1x~universal.png",
+      "idiom" : "universal"
     },
     {
-      "idiom" : "universal",
-      "scale" : "2x"
+      "scale" : "2x",
+      "filename" : "geometry.2x~universal.png",
+      "idiom" : "universal"
     },
     {
-      "idiom" : "universal",
-      "scale" : "3x"
+      "scale" : "3x",
+      "filename" : "geometry.3x~universal.png",
+      "idiom" : "universal"
     }
   ],
   "info" : {
     "version" : 1,
-    "author" : "xcode"
+    "author" : "com.brightdigit.Speculid"
   }
 }

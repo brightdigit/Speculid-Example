@@ -191,13 +191,12 @@ certs/*.p12
 *.toc.*
 *.orig.*
 
-examples/*/*.xcassets/*/*.png
-examples/*/*.xcassets/*/*.pdf
+*/*.xcassets/*/*.png
+*/*.xcassets/*/*.pdf
 
 playgrounds
 
 .version
 *.coverage.txt
 **/fastlane/report.xml 
-examples/Assets/Assets.xcassets/icons/
-examples/Assets/icons/
+
